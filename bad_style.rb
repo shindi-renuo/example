@@ -21,6 +21,12 @@ class BadStyle
   end
 end
 
+class truly_abhorren
+def __init__
+puts "But this is meant for Python!!!"
+end
+end
+
 class BadStyleVeryBad
   def initialize123(name)
     @name = name
