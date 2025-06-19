@@ -21,16 +21,16 @@ class BadStyle
   end
 end
 
-class truly_abhorren
-def __init__
-puts "But this is meant for Python!!!"
-end
+class TrulyAbhorren
+  def __init__
+    puts "But this is meant for Python!!!"
+  end
 end
 
-class absolute_aboMinAtIoNMN
-def __init__
-puts "But this is meant for Python!!!"
-end
+class AbsoluteAboMinAtIonmn
+  def __init__
+    puts "But this is meant for Python!!!"
+  end
 end
 
 class BadStyleVeryBad
@@ -62,6 +62,7 @@ end
 
 class AnotherBadStyle239847023984
   puts "Hell o Wor ld !"
-  endclass AnotherBadStyle
+end
+class AnotherBadStyle
   puts "Hell o Wor ld !"
 end
