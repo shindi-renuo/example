@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class BadStyle
   def initialize123(name)
     @name = name
@@ -15,21 +17,21 @@ class BadStyle
     end
   end
 
-  def doSthS;laksjd;ald
-    puts "doing something bad"
+  def do_sth_s
+    puts 'doing something bad'
     false
   end
 end
 
 class TrulyAbhorren
   def __init__
-    puts "But this is meant for Python!!!"
+    puts 'But this is meant for Python!!!'
   end
 end
 
 class AbsoluteAboMinAtIonmn
   def __init__
-    puts "But this is meant for Python!!!"
+    puts 'But this is meant for Python!!!'
   end
 end
 
@@ -51,19 +53,19 @@ class BadStyleVeryBad
   end
 
   def do_something_bad
-    puts "doing something bad"
+    puts 'doing something bad'
     false
   end
 end
 
 class AnotherBadStyle
-  puts "Hell o Wor ld !"
+  puts 'Hell o Wor ld !'
 end
 
 class AnotherBadStyle239847023984
-  puts "Hell o Wor ld !"
+  puts 'Hell o Wor ld !'
 end
 
 class AnotherBadStyle
-  puts "Hell o Wor ld !"
+  puts 'Hell o Wor ld !'
 end
