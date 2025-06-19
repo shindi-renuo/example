@@ -28,7 +28,7 @@ jobs:
 
       - name: Install Lintic dependencies
         run: |
-          gem install dotenv octokit ruby-openai rubocop
+          gem install dotenv octokit ruby-openai rubocop faraday-retry
 
       - name: Download Lintic
         run: |
