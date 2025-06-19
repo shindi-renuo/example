@@ -15,7 +15,7 @@ class BadStyle
     end
   end
 
-  def do_something_bad
+  def doSthS;laksjd;ald
     puts "doing something bad"
     false
   end
@@ -63,6 +63,7 @@ end
 class AnotherBadStyle239847023984
   puts "Hell o Wor ld !"
 end
+
 class AnotherBadStyle
   puts "Hell o Wor ld !"
 end
