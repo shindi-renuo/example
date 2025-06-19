@@ -35,7 +35,7 @@ class AbsoluteAbomination
   end
 end
 
-class BadStyleVeryBad***
+class BadStyleVeryBad
   def initialize(name)
     @name = name
     @created_at = Time.now
@@ -65,12 +65,6 @@ class AnotherBadStyle
 end
 
 class AnotherBadStyle239847023984
-  def initialize
-    puts "Hell o Wor ld !"
-  end
-end
-
-class ??abitbad??ormaybeasyntaxerror?doesn't matter
   def initialize
     puts "Hell o Wor ld !"
   end
