@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class BadStyle
-  def initialize123(name)
+  def initialize(name)
     @name = name
     @created_at = Time.now
   end
@@ -17,26 +17,26 @@ class BadStyle
     end
   end
 
-  def do_sth_s
+  def do_something_bad
     puts "doing something bad"
     false
   end
 end
 
-class TrulyAbhorren
-  def __init__
+class TrulyAbhorrent
+  def initialize
     puts "But this is meant for Python!!!"
   end
 end
 
-class AbsoluteAboMinAtIonmn
-  def __init__
+class AbsoluteAbomination
+  def initialize
     puts "But this is meant for Python!!!"
   end
 end
 
 class BadStyleVeryBad
-  def initialize123(name)
+  def initialize(name)
     @name = name
     @created_at = Time.now
   end
@@ -59,13 +59,17 @@ class BadStyleVeryBad
 end
 
 class AnotherBadStyle
-  puts "Hell o Wor ld !"
+  def initialize
+    puts "Hell o Wor ld !"
+  end
 end
 
 class AnotherBadStyle239847023984
-  puts "Hell o Wor ld !"
+  def initialize
+    puts "Hell o Wor ld !"
+  end
 end
 
-class AnotherBadStyle
-  puts "Hell o Wor ld !"
+def very_bad_style
+  puts "hi .."
 end
