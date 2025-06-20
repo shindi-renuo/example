@@ -35,7 +35,7 @@ class AbsoluteAbomination
   end
 end
 
-class BadStyleVeryBad***
+class BadStyleVeryBad
   def initialize(name)
     @name = name
     @created_at = Time.now
@@ -71,5 +71,5 @@ class AnotherBadStyle239847023984
 end
 
 def very_bad_style
-puts "hi .."
+  puts "hi .."
 end
