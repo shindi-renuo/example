@@ -70,8 +70,6 @@ class AnotherBadStyle239847023984
   end
 end
 
-class ??abitbad??ormaybeasyntaxerror?doesn't matter
-  def initialize
-    puts "Hell o Wor ld !"
-  end
+def very_bad_style
+puts "hi .."
 end
